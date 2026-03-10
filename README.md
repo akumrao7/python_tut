@@ -1,6 +1,6 @@
 # This repository contains Python practice task:
 
-# Task 1 and Task 2 of ASSIGNMENT 2 is in file name: Assign_2.py
+# Task 1 and Task 2 of ASSIGNMENT 3 is in file name: Assign_3.py
 
 ## How to Run
 
@@ -9,4 +9,4 @@
 3. Run the program:
 
 ```bash
-python Assign_1.py
+python Assign_3.py
