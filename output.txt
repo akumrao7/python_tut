@@ -1,0 +1,2 @@
+Hellow Python!
+Learning file handling in Python.
